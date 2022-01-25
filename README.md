@@ -1,7 +1,6 @@
 # woolland2
 
 ## Current Projects working on
-- RedKey
+- RedKey (currently private)
 - Hotsnap (currently private)
 - kScript (currently private)
-- VillamaaOS (Windows-based OS)
